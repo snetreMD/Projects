@@ -1,1 +1,2 @@
-# Click-counter project for Visual Studio Code Course
+# Click-counter
+This project is for the Visual Studio Code Course
